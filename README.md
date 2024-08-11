@@ -1,4 +1,4 @@
-
+        BANK LOAN ANALYSIS         
 <img width="524" alt="image" src="https://github.com/user-attachments/assets/786095b9-90f0-474d-8d68-ae6ed30dcad6">
 
 
